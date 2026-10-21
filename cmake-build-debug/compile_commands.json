@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/utente/Desktop/Scuola/C++/snake/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\raylib_template_portable_windows.dir\\main.cpp.obj -c C:\\Users\\utente\\Desktop\\Scuola\\C++\\snake\\main.cpp",
+  "file": "C:/Users/utente/Desktop/Scuola/C++/snake/main.cpp",
+  "output": "C:/Users/utente/Desktop/Scuola/C++/snake/cmake-build-debug/CMakeFiles/raylib_template_portable_windows.dir/main.cpp.obj"
+}
+]
