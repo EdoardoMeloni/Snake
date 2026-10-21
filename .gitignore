@@ -66,3 +66,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# JetBrains CLion
+.idea/
+
+# CLion build directories
+cmake-build-*/
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
