@@ -1,0 +1,7 @@
+# esclude le librerie dal calcolo dei linguaggi
+include/** linguist-vendored
+lib/** linguist-vendored
+
+# riconosce correttamente il codice c++
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
